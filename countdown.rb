@@ -8,6 +8,5 @@ x = 5
 puts "#{x} SECONDS!"
 
 end 
-end
 puts "HAPPY NEW YEARS!"
 end
